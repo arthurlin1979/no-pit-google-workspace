@@ -5,7 +5,7 @@
 ## 人用：先確認三件事是分開的
 
 1. 裝 CLI：依 [上游安裝說明](https://github.com/googleworkspace/cli#installation) 裝好 `gws`。
-2. 裝 skills：依 [skills 說明](https://github.com/googleworkspace/cli#ai-agent-skills)選需要的，先讀 `gws-shared`，再讀 `gws-drive`／`gws-sheets`／`gws-docs`。
+2. 裝 skills：依 [skills 說明](https://github.com/googleworkspace/cli#ai-agent-skills)選需要的，先讀 `gws-shared`，再讀 `gws-drive`／`gws-sheets`／`gws-docs`。固定版本直連：[gws-shared](https://github.com/googleworkspace/cli/blob/705fb0ecac6f4249679958f6325b809b63fdde17/skills/gws-shared/SKILL.md)、[gws-drive](https://github.com/googleworkspace/cli/blob/705fb0ecac6f4249679958f6325b809b63fdde17/skills/gws-drive/SKILL.md)、[gws-sheets](https://github.com/googleworkspace/cli/blob/705fb0ecac6f4249679958f6325b809b63fdde17/skills/gws-sheets/SKILL.md)、[gws-docs](https://github.com/googleworkspace/cli/blob/705fb0ecac6f4249679958f6325b809b63fdde17/skills/gws-docs/SKILL.md)。
 3. 走完 OAuth：跑一次最小唯讀檢查，確認帳號、看得到的檔案、實際授權三者一致。
 
 實際命令以你裝的版本的 `--help` 及 `gws schema` 為準，不同版本行為可能不同。

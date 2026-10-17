@@ -39,7 +39,7 @@
 ## 使用前提
 
 使用 gws CLI 的讀者，先依 [上游安裝說明](https://github.com/googleworkspace/cli#installation) 安裝 CLI，再依 [skills 說明](https://github.com/googleworkspace/cli#ai-agent-skills) 選擇需要的 skills。
-先讀 `gws-shared`，再讀對應的 `gws-drive`、`gws-sheets`、`gws-docs` 等服務說明。
+先讀 `gws-shared`，再讀對應的 `gws-drive`、`gws-sheets`、`gws-docs` 等服務說明。固定版本連結（與 SOURCES 同一 commit `705fb0e`）：[skills 索引](https://github.com/googleworkspace/cli/blob/705fb0ecac6f4249679958f6325b809b63fdde17/docs/skills.md)、[gws-shared](https://github.com/googleworkspace/cli/blob/705fb0ecac6f4249679958f6325b809b63fdde17/skills/gws-shared/SKILL.md)、[gws-drive](https://github.com/googleworkspace/cli/blob/705fb0ecac6f4249679958f6325b809b63fdde17/skills/gws-drive/SKILL.md)、[gws-sheets](https://github.com/googleworkspace/cli/blob/705fb0ecac6f4249679958f6325b809b63fdde17/skills/gws-sheets/SKILL.md)、[gws-docs](https://github.com/googleworkspace/cli/blob/705fb0ecac6f4249679958f6325b809b63fdde17/skills/gws-docs/SKILL.md)。
 
 安裝 CLI、安裝 skills、完成 OAuth 是不同步驟。實際命令以所用版本的 `--help` 及 `gws schema` 為準。
 如果直接使用 SDK／API，也可參考本專案的通用整合經驗。gws 上游明示它並非 Google 正式支援的產品。
