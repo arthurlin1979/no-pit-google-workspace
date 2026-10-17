@@ -1,22 +1,13 @@
 # 不踩坑：Google Workspace
 
+[English version](README.en.md)
+
 更新日期：2026-10-17
 
 給 AI agents 與開發者使用的 Google Workspace 整合經驗：先讀上游 gws skills，再讀這裡的實務補充。
 
 本專案整理實際遭遇的整合問題、已有的實作紀錄及可核對的外部規則。解法可能結合自行實驗、官方文件與社群資料，部分由 AI 協助搜尋及編輯，不宣稱所有方法皆由我們發明。
 這是獨立整理，與 Google 或 gws 上游無隸屬或背書關係。
-
-## English Summary
-
-A field guide of Google Workspace integration pitfalls for AI agents and developers. Read the upstream [gws skills](https://github.com/googleworkspace/cli#ai-agent-skills) first, then use this repo as the practical supplement.
-
-- 108 core notes + 75 repair / follow-up entries = 183 records, original IDs preserved. They are not 183 independent Google bugs.
-- 24 quick-lookup topics ([PITFALLS.md](PITFALLS.md)) are only the entry point; the full context lives in [catalogue/INDEX.md](catalogue/INDEX.md).
-- Built from our own integration history (de-identified). Fixes may combine our experiments, official docs, and community material, partly searched and edited with AI; we don't claim every method as our invention.
-- Numbers, statuses, and parameters are historical records, not re-verified against live environments. Corrections are welcome.
-- Independent work, not affiliated with or endorsed by Google or the gws project.
-- Original text under [MIT](LICENSE); third-party excerpts in `third_party/gws-cli/` remain Apache-2.0 (see [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)).
 
 ## 為什麼有這個專案
 
