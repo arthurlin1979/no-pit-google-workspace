@@ -21,6 +21,9 @@
 
 ## 先從這裡讀
 
+- [給 AI agents 的入口](AGENTS.md)：先讀上游 skills，再查 PITFALLS 與 183 筆索引。
+- [30 秒 Quick Start](QUICKSTART.md)：人用三步確認、AI 用三頁開工。
+- [常見問題](TROUBLESHOOTING.md)：從 183 筆濃縮的先看入口，完整脈絡連回原編號。
 - [完整紀錄索引](catalogue/INDEX.md)：逐條保留 108 個主紀錄與 75 個維修／延伸項的原編號。
 - [108 個主紀錄](catalogue/records.md)：連線、重試、批次、SHA、測試、排程、mapping 等，逐條寫問題／參數、處理及驗證界線。
 - [維修紀錄 GP-T-01 至 GP-T-38](catalogue/repairs-01-38.md) 及 [GP-T-40 至 GP-T-76](catalogue/repairs-40-76.md)：實際整合與交付過程的處理紀錄，包含原紀錄的已解、部分處理或待核實界線。
