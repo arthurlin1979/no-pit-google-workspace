@@ -2,6 +2,8 @@
 
 [中文版](README.md)
 
+![House birds](assets/pet.jpg)
+
 Updated: 2026-10-17
 
 A field guide of Google Workspace integration pitfalls for AI agents and developers. Read the upstream gws skills first, then use this repo as the practical supplement.

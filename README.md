@@ -2,6 +2,8 @@
 
 [English version](README.en.md)
 
+![鎮站之鳥](assets/pet.jpg)
+
 更新日期：2026-10-17
 
 給 AI agents 與開發者使用的 Google Workspace 整合經驗：先讀上游 gws skills，再讀這裡的實務補充。
