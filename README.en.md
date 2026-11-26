@@ -71,7 +71,7 @@ This is a record-by-record organization of an existing source table, not a compl
 Statuses and parameters in the entries are historical descriptions; this documentation round ran no live re-verification, so nothing here describes the current state of production environments.
 Where the original search trail is incomplete, we say so instead of passing off today's official docs as the source used back then.
 
-Sibling "no-pit" repos: [no-pit-qwen38](https://github.com/arthurlin1979/no-pit-qwen38) (Qwen3.8 chat template), [no-pit-glm](https://github.com/arthurlin1979/no-pit-glm) (GLM-5.3-Flash three-layer defense).
+Sibling "no-pit" repos: [no-pit-qwen38](https://github.com/arthurlin1979/no-pit-qwen38) (Qwen3.8 chat template), [no-pit-glm](https://github.com/arthurlin1979/no-pit-glm) (GLM-5.3-Flash three-layer defense), [no-pit-deepseek](https://github.com/arthurlin1979/no-pit-deepseek) (DeepSeek Maya-DS).
 
 For new issues, first classify: Google rule, gws / SDK behavior, or application integration problem; update the existing entry for similar problems.
 Before including third-party text or code, confirm the file, pinned version, and license, and keep the required notices and modification marks; otherwise keep a verifiable link or leave it out.
